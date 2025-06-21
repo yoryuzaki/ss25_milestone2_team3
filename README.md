@@ -1,6 +1,6 @@
 # Predictive Asthma Prevalence Modeling
 
-This repository contains the code and data used for our Milestone II porject, which aims to understand and predict asthma prevalence at the census tract level using social determinants of health (SDOH) and environmental factors. 
+This repository contains the code and data used for our Milestone II project, which aims to understand and predict asthma prevalence at the census tract level using social determinants of health (SDOH) and environmental factors. 
 
 Team Members: 
 Daida, K.      kdaida@umich.edu
