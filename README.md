@@ -40,7 +40,7 @@ The study methodology was set up as follows:
 - Failure analysis and advanced model evaluation on the best performing supervised learning model.
 
 
-All of the above sections can be found in the Predictive Asthma Modeling notebook. Additionally, an auxiliary analysis was performed on the input data to estimate the severity of the multicollinearity issue, and the details of this analysis can be found in the Auxiliary SVI Data Analysis notebook.
+All of the above sections can be found in the Predictive_Asthma_Modeling notebook. Additionally, an auxiliary analysis was performed on the input data to estimate the severity of the multicollinearity issue, and the details of this analysis can be found in the Auxiliary SVI Data Analysis notebook.
 
 
 ## How to Run the Code
@@ -50,7 +50,7 @@ git clone https://github.com/yoryuzaki/ss25_milestone2_team3.git
 cd ss25_milestone2_team3
 ```
 
-Start with either the Predictive Asthma Modeling or Auxiliary_SVI_Data_Analaysis notebook. If it's your first time running any of the notebooks, ensure you uncomment the following section within the notebooks to install the necessary libraries:
+Start with either the Predictive_Asthma_Modeling or Auxiliary_SVI_Data_Analaysis notebook. If it's your first time running any of the notebooks, ensure you uncomment the following section within the notebooks to install the necessary libraries:
 ```bash
 !pip install -r requirements.txt
 ```
