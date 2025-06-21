@@ -32,10 +32,16 @@ The study methodology was set up as follows:
   - i. Dimensionality reduction using principal component analysis (PCA). 
   - ii. Feature engineering using clustering and community detection. 
 - Supervised algorithms for prediction:
-  - i. Two baseline models were evaluated: linear regression and random forest models. Each baseline model had three approaches: raw features only, PCA transformed features, and raw features combined with outputs from K-Means clustering and community detection. 
+  - i. Two baseline models were evaluated: linear regression and random forest models. Each baseline model had three approaches:
+      -  Raw features only
+      -  PCA transformed features
+      -  Raw features combined with outputs from K-Means clustering and community detection
   - ii. An additional two models were evaluated: gradient boosting and XGBoost. 
 - Failure analysis and advanced model evaluation on the best performing supervised learning model.
-  
+
+
+All of the above sections can be found in the Predictive Asthma Modeling notebook. Additionally, an auxiliary analysis was performed on the input data to estimate the severity of the multicollinearity issue, and the details of this analysis can be found in the Auxiliary SVI Data Analysis notebook.
+
 
 ## How to Run the Code
 Clone this repo using:
