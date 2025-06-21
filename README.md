@@ -43,6 +43,10 @@ The study methodology was set up as follows:
 All of the above sections can be found in the Predictive_Asthma_Modeling notebook. Additionally, an auxiliary analysis was performed on the input data to estimate the severity of the multicollinearity issue, and the details of this analysis can be found in the Auxiliary SVI Data Analysis notebook.
 
 
+## Project Report
+The final project report, "SIADS 696 - Final Project Report - Team 3.pdf," is also available in the repository. 
+
+
 ## How to Run the Code
 Clone this repo using:
 ```bash
