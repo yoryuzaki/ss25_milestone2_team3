@@ -44,7 +44,7 @@ All of the above sections can be found in the Predictive_Asthma_Modeling noteboo
 
 
 ## Project Report
-The final project report, "SIADS 696 - Final Project Report - Team 3.pdf," is also available in the repository. 
+The final project report, "SIADS 696 - Final Project Report - Team 3.pdf", is also available in the repository. 
 
 
 ## How to Run the Code
